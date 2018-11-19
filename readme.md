@@ -21,20 +21,20 @@ https://www.mediafire.com/file/80xl70a3tytfcjg/ThemeLab.exe/file
 # How to use it?
 1. Download the exe from the link above
 2. Put your custom background files in the same directory as the exe
-  2a. For example : you moved ThemeLab.exe to the Documents folder
-  2b. You need to also place your background images in the Documents folder
-  2c. This needs to be done BEFORE running ThemeLab
+For example : you moved ThemeLab.exe to the Documents folder
+You need to also place your background images in the Documents folder
+This needs to be done BEFORE running ThemeLab
 3. Have 2 color hex's ready, one for your primary color, and one for the accent
-  3a. When inputting the color hex's into ThemeLab, exclude the hastag 
-  3b. For Example : #ff000000 becomes ff000000 (don't use this lol it's pure black)
+When inputting the color hex's into ThemeLab, exclude the hastag 
+For Example : #ff000000 becomes ff000000 (don't use this lol it's pure black)
 4. You will need Java JRE and Java JDK (yes, BOTH) to run this tool, see Additional Downloads
 5. Once ThemeLab generates your theme, you need to manually sign and align the apk
-  5a. A simple google search will get you there ;)
+A simple google search will get you there ;)
 
 # Additional Downloads
-Java JRE : https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
-Java JDK : https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-APK Signer Tool (reccomended to use this tool) : https://shatter-box.com/download/apk-signer-tool-v2/
+1. Java JRE : https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+2. Java JDK : https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+3. APK Signer Tool (reccomended to use this tool) : https://shatter-box.com/download/apk-signer-tool-v2/
 (please note i am not providing support if you can't figure out how to sign an apk, if you can't do
 that yourself you shouldn't be using this tool
 
@@ -46,4 +46,4 @@ that yourself you shouldn't be using this tool
 # Contact me
 Kik : Kanxerous
 Email : delessio98@gmail.com
-Kik Groups : bothelp .darkkik .hyper6 (i can't add the hastags because github parses them as title markers)
+Kik Groups : #bothelp #.darkkik #.hyper6
