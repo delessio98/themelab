@@ -1,9 +1,10 @@
 # ThemeLab
-ThemeLab is a simple easy to use script that allows you to create a custom themed kik.
+ThemeLab is a simple easy to use tool for Windows that allows you to create a custom themed kik.
 
 # Download 
 Current Release : Public Beta 1
 
+https://www.mediafire.com/file/80xl70a3tytfcjg/ThemeLab.exe/file
 
 # What is supported?
 1. Custom Primary/Secondary Theme Colors
@@ -12,23 +13,35 @@ Current Release : Public Beta 1
 4. Custom App Name
 5. Add your username to the login screen
 
+# Supported OS's (64 bit only)
+1. Windows 10
+2. Windows 8/8.1
+3. Windows 7
+
 # How to use it?
-1. Download ThemeLab.zip from the above link
-2. Extract the zip to a directory of your choice
-3. Double Click ThemeLab.bat, follow the onscreen prompts
-4. Do NOT use another apk, use the provided base.apk (this script will only work with that exact apk, we will support
-regular stock kik soon)
-4. Users with IOBit Malware Fighter may need to temporarily disable it in order to run the script
-(it's some sort of a file-permission bug with IOBit Malware Fighter)
+1. Download the exe from the link above
+2. Put your custom background files in the same directory as the exe
+  2a. For example : you moved ThemeLab.exe to the Documents folder
+  2b. You need to also place your background images in the Documents folder
+  2c. This needs to be done BEFORE running ThemeLab
+3. Have 2 color hex's ready, one for your primary color, and one for the accent
+  3a. When inputting the color hex's into ThemeLab, exclude the hastag 
+  3b. For Example : #ff000000 becomes ff000000 (don't use this lol it's pure black)
+4. You will need Java JRE and Java JDK (yes, BOTH) to run this tool, see Additional Downloads
+5. Once ThemeLab generates your theme, you need to manually sign and align the apk
+  5a. A simple google search will get you there ;)
+
+# Additional Downloads
+Java JRE : https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+Java JDK : https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+APK Signer Tool (reccomended to use this tool) : https://shatter-box.com/download/apk-signer-tool-v2/
+(please note i am not providing support if you can't figure out how to sign an apk, if you can't do
+that yourself you shouldn't be using this tool
 
 # Planned Updates
-1. No longer rely on small scripts, everything will be compiled into a singular
-self extracting .exe
-2. Support stock kik (this will take a decent amount of work, and it will be specific to whatever kik version)
-(what i mean is i'll have to make a script for each version of kik, so i'm only supporting kik 14.9 and above)
-3. Custom Settings Background (this is easy to implement i just need to fix a few bugs)
-4. Custom Package Name (i have a package changer script available in another repository, i just need to properly
-integrate it with ThemeLab)
+1. Automatically sign the apk
+2. Work with any kik apk
+3. Advanced mode for theme color (set different colors for different layout files)
 
 # Contact me
 Kik : Kanxerous
