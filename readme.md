@@ -28,7 +28,7 @@ This needs to be done BEFORE running ThemeLab!
 When inputting the color hex's into ThemeLab, exclude the hastag.  
 For Example : #ff000000 becomes ff000000 (don't use this lol it's pure black)
 4. You will need Java JRE and Java JDK (yes, BOTH) to run this tool, see Additional Downloads
-5. Once ThemeLab generates your theme, you need to manually sign and align the apk
+5. Once ThemeLab generates your theme, you need to manually sign and align the apk.
 A simple google search will get you there ;)
 
 # Additional Downloads
