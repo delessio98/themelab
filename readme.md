@@ -20,12 +20,12 @@ https://www.mediafire.com/file/80xl70a3tytfcjg/ThemeLab.exe/file
 
 # How to use it?
 1. Download the exe from the link above
-2. Put your custom background files in the same directory as the exe
-For example : you moved ThemeLab.exe to the Documents folder
-You need to also place your background images in the Documents folder
-This needs to be done BEFORE running ThemeLab
-3. Have 2 color hex's ready, one for your primary color, and one for the accent
-When inputting the color hex's into ThemeLab, exclude the hastag 
+2. Put your custom background files in the same directory as the exe.
+For example : you moved ThemeLab.exe to the Documents folder,
+You need to also place your background images in the Documents folder.
+This needs to be done BEFORE running ThemeLab!
+3. Have 2 color hex's ready, one for your primary color, and one for the accent.
+When inputting the color hex's into ThemeLab, exclude the hastag.  
 For Example : #ff000000 becomes ff000000 (don't use this lol it's pure black)
 4. You will need Java JRE and Java JDK (yes, BOTH) to run this tool, see Additional Downloads
 5. Once ThemeLab generates your theme, you need to manually sign and align the apk
