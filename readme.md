@@ -43,7 +43,3 @@ that yourself you shouldn't be using this tool
 2. Work with any kik apk
 3. Advanced mode for theme color (set different colors for different layout files)
 
-# Contact me
-Kik : Kanxerous
-Email : delessio98@gmail.com
-Kik Groups : #bothelp #.darkkik #.hyper6
