@@ -34,7 +34,7 @@ A simple google search will get you there ;)
 # Additional Downloads
 1. Java JRE : https://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
 2. Java JDK : https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-3. APK Signer Tool (reccomended to use this tool) : https://shatter-box.com/download/apk-signer-tool-v2/ .
+3. APK Signer Tool : https://shatter-box.com/download/apk-signer-tool-v2/ .
 (please note i am not providing support if you can't figure out how to sign an apk, if you can't do
 that yourself you shouldn't be using this tool
 
